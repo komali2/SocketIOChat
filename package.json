@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/komali2/SocketIOChat#readme",
   "dependencies": {
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "socket.io": "^1.4.5"
   }
 }
